@@ -9,7 +9,7 @@ Dentro de la pesaña de estudiantes encontramos 2 formas de dar de alta estudian
 <div class="mu-browser" style="padding:0"> 
 </div>
 
-* `Nuevo Estudiante` En esta pantalla podrás ingresar manualmente un estudiante completando Nombre, Apellido y Email. También podrás ingresar multiples estudiantes subiendo un archivo con formato csv. <a href="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-primeros-pasos-en-el-aula/master/00003_Agregando%20estudiantes/estudiantes.csv" download> Aquí</a> podràs encontrar un ejemplo.
+* `Nuevo Estudiante` En esta pantalla podrás ingresar manualmente un estudiante completando Nombre, Apellido y Email. También podrás ingresar multiples estudiantes subiendo un archivo con formato csv. <a href="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-primeros-pasos-en-el-aula/master/00003_Agregando%20estudiantes/estudiantes.csv" download> Acá</a> podràs encontrar un ejemplo.
 
 <div class="mu-browser" style="padding:0"> 
 </div>
