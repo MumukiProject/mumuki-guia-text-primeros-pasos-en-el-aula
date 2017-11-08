@@ -1,7 +1,8 @@
 Un aula no sirve de nada si no tenemos a quien enseñarle :stuck_out_tongue_winking_eye:, ¡por lo tanto veamos como hacer para dar de alta nuestros estudiantes!
 
-Una vez dentro del detalle de un curso podremos ver varias pestañas.
+Una vez dentro del detalle de un curso podremos ver varias pestañas. Seleccionemos la pestaña de estudiantes.
 <div class="mu-browser" style="padding:0"> 
+
 </div>
 
 Acá podemos encontrar la opción para crear un link de invitación al curso, al cual podemos asignarle una fecha de expiración.
