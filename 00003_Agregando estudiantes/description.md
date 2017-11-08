@@ -5,6 +5,7 @@ Una vez dentro del detalle de un curso podremos ver varias pestañas.
 </div>
 
 Dentro de la pesaña de estudiantes encontramos 2 formas de dar de alta estudiantes
+
 * `Invitar estudiantes` Genera un link único con expiración que luego podrás compartir con tus estudiantes. Ellos deberán ingresar al link y aceptar la invitación.
 <div class="mu-browser" style="padding:0"> 
 </div>
